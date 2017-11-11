@@ -2,13 +2,20 @@
 
 Please follow the following folder format:
 ```
-	Python_Templates
-	|
-	README.md
-	TEMPLATE_EXAMPLE_1
-	|				|
-	|				+-- template.py
-	TEMPLATE_EXAMPLE_2
-					|
-					+-- template.py
+project
+│   README.md
+│   
+│
+└───Template_ex_1
+│   │   README.md
+│   │   template.py
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───Template_ex_2
+    │   README.md
+    │   template.py
 ```
