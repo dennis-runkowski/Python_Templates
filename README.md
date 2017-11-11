@@ -2,7 +2,7 @@
 
 Please follow the following folder format:
 ```
-project
+Python_Templates
 │   README.md
 │   
 │
